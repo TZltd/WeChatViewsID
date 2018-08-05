@@ -1,0 +1,50 @@
+{
+    "name" : "WeChatViewsID",
+    "LastVersion" :"6.6.7",
+    "Language":"ch",
+    "Author":"TZltd",
+    "LastEdit":"5/8/2018",
+    "6.6.7" :
+    {
+        "plusButton" :[
+           { "findtype":"id"},
+           {"vule":"com.tencent.mm:id/gd"},
+           {"isParent":1}
+        ],
+        "addContactButton" :[
+            { "findtype":"text"},
+            {"vule":"添加好友"},
+            {"isParent":1}
+         ],
+         "mobileContactButton" :[
+            { "findtype":"text"},
+            {"vule":"手机联系人"},
+            {"isParent":1}
+         ],
+         "addButton" :[
+            { "findtype":"text"},
+            {"vule":"添加"},
+            {"isParent":1}
+         ],
+         "hiInfoText" :[
+            { "findtype":"id"},
+            {"vule":"com.tencent.mm:id/d4h"},
+            {"isParent":0}
+         ],
+         "sendButton":[
+             {"findtype":"id"},
+             {"vule":"com.tencent.mm:id/hg"},
+             {"isParent":0}
+         ],
+         "sendButton":[
+            {"findtype":"id"},
+            {"vule":"com.tencent.mm:id/hg"},
+            {"isParent":0}
+        ],
+        "backToContactsListButton":[
+            {"findtype":"id"},
+            {"vule":"com.tencent.mm:id/ht"},
+            {"isParent":1}
+        ]
+    }
+}
